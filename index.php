@@ -1,3 +1,5 @@
 <?php
-
-echo "Hello Pradnya!";
+$name="Mango";
+$fruit="Fruit";
+echo $name;
+?>
